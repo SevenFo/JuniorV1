@@ -2,7 +2,7 @@
 
 ## 8086/8088系列
 
-![image-20210906193652467](pics\image-20210906193652467.png)
+![image-20210906193652467](pics/image-20210906193652467.png)
 
 #### 处理器架构：二级流水线
 
@@ -29,7 +29,7 @@
 
 + Flags register
 
-  + ![image-20210906201505044](pics\image-20210906201505044.png)
+  + ![image-20210906201505044](pics/image-20210906201505044.png)
 
   + `CF` 进位标识（ carry bit flag ） `AF`辅助进位( assistance flag ) `ZF`零标志( zero flag )`PF`奇偶标志( parity flag) `SF`符号标志 ( symbol flag ) `OF`溢出标志 ( overflow flag)
 
@@ -41,7 +41,7 @@
 
 ## 80286
 
-![image-20210906204103193](pics\image-20210906204103193.png)
+![image-20210906204103193](pics/image-20210906204103193.png)
 
 #### 处理器架构：四级流水线
 
@@ -59,7 +59,7 @@
 
   + 段描述符：
 
-    ![image-20210906213703559](pics\image-20210906213703559.png)
+    ![image-20210906213703559](pics/image-20210906213703559.png)
 
   + 工作方式：
 
